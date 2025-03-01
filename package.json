@@ -2,7 +2,7 @@
     "name": "atlantic-midnight",
     "displayName": "Atlantic Midnight",
     "description": "Atlantic Midnight is a dark theme for Visual Studio Code.",
-    "publisher": "sandricoprovo",
+    "publisher": "sprovo",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.97.0"
