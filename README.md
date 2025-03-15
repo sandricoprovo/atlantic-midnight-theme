@@ -17,4 +17,4 @@ It's just me! We stare at our editors for hours so we should like the way it loo
 
 ### License
 
-[MIT License](https://github.com/sandricoprovo/atlantic-midnight-theme/blob/main/LICENSE.md)
+[MIT License](https://github.com/sandricoprovo/atlantic-midnight-theme/blob/main/LICENSE)
