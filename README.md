@@ -1,10 +1,20 @@
-# Atlantic Midnight VScode Theme
+# Atlantic Midnight for [Visual Studio Code](http://code.visualstudio.com)
 
-A dark only theme for VScode.
+A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-### Change Log
+![Screenshot](./atlantic-midnight-dark.png)
 
-**_[1.1.0]_**
+## Maintainers & Contributors:
 
--   Refined syntax colors.
--   Changed primary color to #005c80.
+It's just me! We stare at our editors for hours so we should like the way it looks.
+
+| [![Sandrico P.](https://avatars.githubusercontent.com/u/46389203?v=4)](https://github.com/sandricoprovo) |
+| :------------------------------------------------------------------------------------------------------: |
+|                             [Sandrico P.](https://github.com/sandricoprovo)                              |
+
+-   [Github](https://github.com/sandricoprovo)
+-   [BlueSky](https://bsky.app/profile/sandricoprovo.com)
+
+### License
+
+[MIT License](https://github.com/sandricoprovo/atlantic-midnight-theme/blob/main/LICENSE.md)
